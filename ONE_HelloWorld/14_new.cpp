@@ -30,7 +30,7 @@ void CreateIntHeap()
 }
 
 
-int main()
+int main_5()
 {
 	// 1、new 基本语法 : "返回的是改数据类型的指针"
 	PrintData();
