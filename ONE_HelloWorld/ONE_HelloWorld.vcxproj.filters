@@ -18,5 +18,17 @@
     <ClCompile Include="..\..\..\1_HelloWorld\1_HelloWorld\9_struct.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="10_globalvariable.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="11_stack.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="13_heap.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="14_new.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

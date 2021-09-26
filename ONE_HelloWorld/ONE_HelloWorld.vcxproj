@@ -140,6 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\1_HelloWorld\1_HelloWorld\9_struct.cpp" />
+    <ClCompile Include="10_globalvariable.cpp" />
+    <ClCompile Include="11_stack.cpp" />
+    <ClCompile Include="13_heap.cpp" />
+    <ClCompile Include="14_new.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
