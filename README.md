@@ -3,8 +3,8 @@
 > 阮一峰C语言入门指南: https://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html
 ## 一、指南大纲【即学习计划】
 
-[X] 简介
-[X] 基本语法
+- [X] 简介
+- [X] 基本语法
 [X] 变量
 [X] 运算符
 [X] 流程控制
