@@ -145,6 +145,7 @@
     <ClCompile Include="13_heap.cpp" />
     <ClCompile Include="14_new.cpp" />
     <ClCompile Include="15_reference.cpp" />
+    <ClCompile Include="16_function.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
