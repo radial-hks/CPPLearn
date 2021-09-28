@@ -88,4 +88,7 @@ int main_7()
 	// КЏЪ§жиди
 	AddNumbers_4(4, 3);
 	AddNumbers_4("4", "3");
+
+	system("pause");
+	return 0;
 }

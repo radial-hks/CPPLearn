@@ -36,5 +36,8 @@
     <ClCompile Include="16_function.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="17_circle.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
