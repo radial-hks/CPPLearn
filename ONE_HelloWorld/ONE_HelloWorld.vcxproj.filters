@@ -39,5 +39,17 @@
     <ClCompile Include="17_circle.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="18_construct.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="19_copyconstruct.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="20_this.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="21_friend.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -40,9 +40,9 @@ Circle::~Circle()
 
 
 
-int main()
+int main_8()
 {
-	// 实例化对象,设置属性，使用行为;
+	// 实例化对象,设置属性,使用行为;
 	Circle cc(9);
 	// cc.radius = 10;
 	cout << "cc 的周长:" << cc.calculateZC() << endl;

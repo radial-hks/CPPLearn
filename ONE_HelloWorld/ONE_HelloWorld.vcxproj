@@ -147,6 +147,10 @@
     <ClCompile Include="15_reference.cpp" />
     <ClCompile Include="16_function.cpp" />
     <ClCompile Include="17_circle.cpp" />
+    <ClCompile Include="18_construct.cpp" />
+    <ClCompile Include="19_copyconstruct.cpp" />
+    <ClCompile Include="20_this.cpp" />
+    <ClCompile Include="21_friend.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
