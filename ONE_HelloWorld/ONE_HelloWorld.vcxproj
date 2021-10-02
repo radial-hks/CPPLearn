@@ -151,6 +151,8 @@
     <ClCompile Include="19_copyconstruct.cpp" />
     <ClCompile Include="20_this.cpp" />
     <ClCompile Include="21_friend.cpp" />
+    <ClCompile Include="22_OperatorOverloading.cpp" />
+    <ClCompile Include="23_inherit.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
