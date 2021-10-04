@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\1_HelloWorld\1_HelloWorld\9_struct.cpp">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
     <ClCompile Include="10_globalvariable.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
@@ -61,6 +58,33 @@
       <Filter>Resource Files</Filter>
     </ClCompile>
     <ClCompile Include="25_file.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1_helloworld.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2_variable.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3_variabletype.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4_operation.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5_flow.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="6_array.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="7_function.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="8_pointer.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="9_struct.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
