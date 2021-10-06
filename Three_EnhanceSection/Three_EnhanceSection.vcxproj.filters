@@ -33,5 +33,11 @@
     <ClCompile Include="6_ClassTemplateInherit.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="7_stl_vector.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="8_stl_string.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
