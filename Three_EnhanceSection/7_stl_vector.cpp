@@ -125,6 +125,42 @@ void test_03()
 
 // vector<vector<int>> array; // 列表嵌套列表；
 
+void  test_05()
+{
+	// vector 容量和大小
+
+	// empty() // 是否为空
+	// capacity() // 容器容量
+	// size() //返回容器中的元素个数
+	// resize(int num) // 重新指定容器长度，容器变长，默认值填充；变短，对应位置截取即可；
+	// resize(int num,elem) // 重新指定容器长度，容器变长，指定元素填充；变短，对应位置截取即可；
+
+	// vector 插入及删除
+
+	// push_back(elem) // 尾部插入元素elem
+	// pop_back() // 删除最后一个元素
+	// insert( const_iterator pos, ele ); // 迭代器指向位置pos插入元素ele
+	// insert( const_iterator pos, int count, ele) // 迭代器指向位置pos插入count个元素ele
+	// erase(const_iterator pos) // 删除迭代器指向的元素
+	// erase(const_iterator start, const_iterator end) // 删除迭代器指定区间的元素
+	// clear() //删除容器中的所有元素
+
+	// vector 数据存取
+
+	// at(int idx) // 返回索引idx所指的数值
+	// operator[] // 返回索引idx所指的数值
+	// font() // 返回容器中第一个数据元素
+	// back() // 返回容器中最后一个数据元素
+
+	// vector 互换容器:实现两个容器内元素互换(收缩内存空间)
+	// swap(vec); // 将vec与本身的元素互换; 
+	// vector<int>(v).swap(v); // 匿名对象 拷贝构造函数
+
+
+	// vector 预留空间: 减少vector在动态扩展容量时的扩展次数
+	// reserve(int len); //容器预留len个元素长度，预留位置不初始化，元素不可访问；
+}
+
 int main()
 {
 	// 测试
